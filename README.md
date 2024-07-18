@@ -1,6 +1,8 @@
 # EmerNeRF_yang
 Used for EmerNeRF
+
 Train:
+  
   python train_emernerf.py \
     --config_file configs/default_flow.yaml \
     --output_root $output_root \
